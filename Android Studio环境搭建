@@ -26,9 +26,6 @@ Plugins version        Gradle Version
 2.1.3-2.2.3            2.14.1+
 2.3.0+                 3.3+
 
-
-
-
 2.网络代理设置
 使用android-studio-bundle-162.3934792-windows在Win7下安装时，为了更新sdk需要设置网络代理
 但在Win10中没有必要设置，反而因为设置了而无法下载plugins
